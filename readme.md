@@ -6,3 +6,6 @@ This tutotiual mainly focus on using git and github as remote.
 This repository is built step by step in the tutorial.
 
 it now include steps for github
+
+
+making changes in the fork local repository.
